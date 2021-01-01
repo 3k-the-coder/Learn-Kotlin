@@ -1,0 +1,61 @@
+initialPackage
+    - helloWorld.kt
+fundamentals
+    - variables
+    - functionsAndClasses
+    - dataTypes
+    - ranges
+conditionalStatements
+    - if
+    - when
+iterators
+    - for
+    - while
+    - break
+functions
+    - basics
+    - interOperability
+    - namedParameter
+    - extensionFunctions
+    - infixFunctions
+    - tailRecFunctions
+classes
+    - basics
+    - inheritance
+    - visibilityModifiers
+    - abstractClasses
+    - interfaces
+    - dataAndSuperClasses
+    - objectDeclarations
+    - companionObjects
+
+lambdasAndHigherOrderFunctions
+    - lambdas (contains HOFs as well)
+    - closuresAndIt
+    - withAndApply
+
+collections
+    - arrays
+    - list
+    - map
+    - set
+
+appsOfCollectionsAndLambdas
+    - filterAndMap
+    - predicates
+
+advancedConcepts
+    - nullSafetyOperator
+    - lateinit
+    - lazy
+
+scopeFunctions
+    - typesOfScopeFunctions
+    - with
+    - apply
+    - also
+    - let
+    - run
+
+coroutines
+
